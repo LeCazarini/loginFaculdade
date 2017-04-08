@@ -1,0 +1,4 @@
+#Fri Apr 07 01:56:17 BRT 2017
+base.0=/Users/leandro/iCloud Drive (Arquivo)/Desktop/Area de trabalho/Faculdade/Faculdade App/loginFaculdade/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/leandro/iCloud Drive (Arquivo)/Desktop/Area de trabalho/Faculdade/Faculdade App/loginFaculdade/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
